@@ -1,7 +1,7 @@
 # Sirisha Padmasekhar | Portfolio Website
 ## Live Website
 
-**Portfolio:** https://sirishapadmasekhar.github.io/sirisha-portfolio/
+**Portfolio:** https://sirishapadmasekhar.github.io/portfolio/
 
 ---
 
