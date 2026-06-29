@@ -305,6 +305,9 @@ section .container {
   section.section-show {
     top: 80px;
   }
+  img {
+    margin-bottom: 20px;
+  }
 }
 
 .section-title h2 {
