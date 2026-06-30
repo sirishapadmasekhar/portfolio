@@ -302,11 +302,13 @@ section .container {
   section {
     top: 120px;
   }
+
   section.section-show {
     top: 80px;
   }
-  img {
-    margin-bottom: 20px;
+
+  .about-content {
+    margin-top: 100px;
   }
 }
 
